@@ -49,6 +49,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
+My research interest falls in the intersection of multivariate statistics and social network analysis. I like working interdisciplinary and doing research that moves across scientific borders. The projects that I have worked on and am currently working on are listed below.
 
-I'm a lecturer in Social Statistics working at the University of Manchester. My research interest falls in the intersection of multivariate statistics and social network analysis. Other research interests are in the area of statistical information theory, specifically statistical entropy analysis. 
-I like working interdisciplinary and doing research that moves across scientific borders. The projects that I have worked on and am currently working on are listed below.
