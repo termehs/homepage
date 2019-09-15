@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Till F Sonnemann | mrs schochastics</title>
+    <link>/authors/till-f-sonnemann/</link>
+      <atom:link href="/authors/till-f-sonnemann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Till F Sonnemann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Till F Sonnemann</title>
+      <link>/authors/till-f-sonnemann/</link>
+    </image>
+    
+    <item>
+      <title>Investigating Human Geographic Origins using Dual-Isotope (87Sr/86Sr, d18O) Assignment approaches</title>
+      <link>/publication/isotopes/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/isotopes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

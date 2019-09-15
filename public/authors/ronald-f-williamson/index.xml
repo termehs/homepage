@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ronald F Williamson | mrs schochastics</title>
+    <link>/authors/ronald-f-williamson/</link>
+      <atom:link href="/authors/ronald-f-williamson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ronald F Williamson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ronald F Williamson</title>
+      <link>/authors/ronald-f-williamson/</link>
+    </image>
+    
+    <item>
+      <title>Nation Building and Social Signaling in Southern Ontario AD 1350-1650</title>
+      <link>/publication/ontario.sna/</link>
+      <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ontario.sna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

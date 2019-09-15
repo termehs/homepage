@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sna | mrs schochastics</title>
+    <link>/tags/sna/</link>
+      <atom:link href="/tags/sna/index.xml" rel="self" type="application/rss+xml" />
+    <description>sna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:05:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>sna</title>
+      <link>/tags/sna/</link>
+    </image>
+    
+    <item>
+      <title>Data Protection for Online Social Networks and P-Stability for Graphs</title>
+      <link>/publication/data.protection/</link>
+      <pubDate>Fri, 01 Jan 2016 00:05:00 +0000</pubDate>
+      <guid>/publication/data.protection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

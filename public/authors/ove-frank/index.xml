@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ove Frank | mrs schochastics</title>
+    <link>/authors/ove-frank/</link>
+      <atom:link href="/authors/ove-frank/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ove Frank</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ove Frank</title>
+      <link>/authors/ove-frank/</link>
+    </image>
+    
+    <item>
+      <title>Random Multigraphs and Aggregated Triads with Fixed Degrees</title>
+      <link>/publication/aggregated.triads/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/aggregated.triads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Entropy Analysis of Network Data</title>
+      <link>/publication/multivariate.entropy.analysis/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/multivariate.entropy.analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity of Families of Multigraphs</title>
+      <link>/publication/complexity.multigraphs/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/complexity.multigraphs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

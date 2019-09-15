@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>archaeology | mrs schochastics</title>
+    <link>/tags/archaeology/</link>
+      <atom:link href="/tags/archaeology/index.xml" rel="self" type="application/rss+xml" />
+    <description>archaeology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>archaeology</title>
+      <link>/tags/archaeology/</link>
+    </image>
+    
+    <item>
+      <title>A Framework for Reconstructing Archaeological Networks using Exponential Random Graph Models</title>
+      <link>/publication/ergm.framework.arch/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ergm.framework.arch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Archaeological Networks with Structural Holes</title>
+      <link>/publication/reconstructing.arch.nets/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/reconstructing.arch.nets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypergraph Representations A Study of Carib Attacks on Colonial Forces 1509-1700</title>
+      <link>/publication/hypergraph/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/hypergraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Human Geographic Origins using Dual-Isotope (87Sr/86Sr, d18O) Assignment approaches</title>
+      <link>/publication/isotopes/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/isotopes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nation Building and Social Signaling in Southern Ontario AD 1350-1650</title>
+      <link>/publication/ontario.sna/</link>
+      <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ontario.sna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nexus1492</title>
+      <link>/project/nexus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/nexus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

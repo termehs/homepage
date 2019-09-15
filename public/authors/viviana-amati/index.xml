@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viviana Amati | mrs schochastics</title>
+    <link>/authors/viviana-amati/</link>
+      <atom:link href="/authors/viviana-amati/index.xml" rel="self" type="application/rss+xml" />
+    <description>Viviana Amati</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Viviana Amati</title>
+      <link>/authors/viviana-amati/</link>
+    </image>
+    
+    <item>
+      <title>A Framework for Reconstructing Archaeological Networks using Exponential Random Graph Models</title>
+      <link>/publication/ergm.framework.arch/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ergm.framework.arch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Archaeological Networks with Structural Holes</title>
+      <link>/publication/reconstructing.arch.nets/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/reconstructing.arch.nets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

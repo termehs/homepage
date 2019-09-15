@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corinne L Hofman | mrs schochastics</title>
+    <link>/authors/corinne-l-hofman/</link>
+      <atom:link href="/authors/corinne-l-hofman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Corinne L Hofman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Corinne L Hofman</title>
+      <link>/authors/corinne-l-hofman/</link>
+    </image>
+    
+    <item>
+      <title>Investigating Human Geographic Origins using Dual-Isotope (87Sr/86Sr, d18O) Assignment approaches</title>
+      <link>/publication/isotopes/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/isotopes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

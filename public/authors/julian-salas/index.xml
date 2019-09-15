@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julián Salas | mrs schochastics</title>
+    <link>/authors/julian-salas/</link>
+      <atom:link href="/authors/julian-salas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julián Salas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:05:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Julián Salas</title>
+      <link>/authors/julian-salas/</link>
+    </image>
+    
+    <item>
+      <title>Data Protection for Online Social Networks and P-Stability for Graphs</title>
+      <link>/publication/data.protection/</link>
+      <pubDate>Fri, 01 Jan 2016 00:05:00 +0000</pubDate>
+      <guid>/publication/data.protection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | mrs schochastics</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Reconstructing Archaeological Networks with Structural Holes</title>
+      <link>/publication/reconstructing.arch.nets/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/reconstructing.arch.nets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Multigraphs and Aggregated Triads with Fixed Degrees</title>
+      <link>/publication/aggregated.triads/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/aggregated.triads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypergraph Representations A Study of Carib Attacks on Colonial Forces 1509-1700</title>
+      <link>/publication/hypergraph/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/hypergraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Human Geographic Origins using Dual-Isotope (87Sr/86Sr, d18O) Assignment approaches</title>
+      <link>/publication/isotopes/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/isotopes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Local and Global Properties of Multigraphs</title>
+      <link>/publication/global.local.multigraphs/</link>
+      <pubDate>Sun, 25 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/global.local.multigraphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nation Building and Social Signaling in Southern Ontario AD 1350-1650</title>
+      <link>/publication/ontario.sna/</link>
+      <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ontario.sna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Entropy Analysis of Network Data</title>
+      <link>/publication/multivariate.entropy.analysis/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/multivariate.entropy.analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Protection for Online Social Networks and P-Stability for Graphs</title>
+      <link>/publication/data.protection/</link>
+      <pubDate>Fri, 01 Jan 2016 00:05:00 +0000</pubDate>
+      <guid>/publication/data.protection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multigraph Approach to Social Network Analysis</title>
+      <link>/publication/multigraph.approach/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/multigraph.approach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statistical entropies | mrs schochastics</title>
+    <link>/tags/statistical-entropies/</link>
+      <atom:link href="/tags/statistical-entropies/index.xml" rel="self" type="application/rss+xml" />
+    <description>statistical entropies</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>statistical entropies</title>
+      <link>/tags/statistical-entropies/</link>
+    </image>
+    
+    <item>
+      <title>Gender Dependent Structure of Dialogue Networks in Films</title>
+      <link>/project/movienetworks/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/movienetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Entropy Analysis of Network Data</title>
+      <link>/project/seand/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/seand/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

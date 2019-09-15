@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John P Hart | mrs schochastics</title>
+    <link>/authors/john-p-hart/</link>
+      <atom:link href="/authors/john-p-hart/index.xml" rel="self" type="application/rss+xml" />
+    <description>John P Hart</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>John P Hart</title>
+      <link>/authors/john-p-hart/</link>
+    </image>
+    
+    <item>
+      <title>Nation Building and Social Signaling in Southern Ontario AD 1350-1650</title>
+      <link>/publication/ontario.sna/</link>
+      <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ontario.sna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

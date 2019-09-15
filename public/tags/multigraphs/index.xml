@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multigraphs | mrs schochastics</title>
+    <link>/tags/multigraphs/</link>
+      <atom:link href="/tags/multigraphs/index.xml" rel="self" type="application/rss+xml" />
+    <description>multigraphs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>multigraphs</title>
+      <link>/tags/multigraphs/</link>
+    </image>
+    
+    <item>
+      <title>Gender Dependent Structure of Dialogue Networks in Films</title>
+      <link>/project/movienetworks/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/movienetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Multigraphs</title>
+      <link>/project/rmm/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/rmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Multigraphs and Aggregated Triads with Fixed Degrees</title>
+      <link>/publication/aggregated.triads/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/aggregated.triads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Local and Global Properties of Multigraphs</title>
+      <link>/publication/global.local.multigraphs/</link>
+      <pubDate>Sun, 25 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/global.local.multigraphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multigraph Approach to Social Network Analysis</title>
+      <link>/publication/multigraph.approach/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/multigraph.approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity of Families of Multigraphs</title>
+      <link>/publication/complexity.multigraphs/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/complexity.multigraphs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
