@@ -12,23 +12,26 @@
   name = "Experience"
   url = "#experience"
   weight = 20
-
-
+  
 [[main]]
   name = "Projects"
   url = "#projects"
   weight = 30
-  
+
+[[main]]
+  name = "R packages"
+  url = "#rpackages"
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
-
+  weight = 50
+  
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 50
+  weight = 60
 
 
 

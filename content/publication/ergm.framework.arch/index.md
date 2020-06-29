@@ -17,7 +17,7 @@ projects: []
 publication: '*Journal of Archaeological Method and Theory*'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2019-08-25T00:00:00Z"
 slides: 
 summary:  We present a general framework in which we combine exponential random graph models with archaeological substantiations of mechanisms that may be responsible for network formation to account for tie dependence.

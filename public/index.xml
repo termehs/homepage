@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>mrs schochastics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>mrs schochastics</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Social Network Analysis</title>
+      <link>/publication/sna.chapter/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sna.chapter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gender Dependent Structure of Dialogue Networks in Films</title>
@@ -147,6 +155,14 @@
       <link>/project/nexus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/project/nexus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multigraphr</title>
+      <link>/rpackage/multigraphr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/rpackage/multigraphr/</guid>
       <description></description>
     </item>
     

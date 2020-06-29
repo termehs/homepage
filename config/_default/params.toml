@@ -185,6 +185,18 @@ plugins_js  = []
   post_view = 2
   publication_view = 2
   talk_view = 2
+  
+  # Configuration of rpackages pages.
+  [rpackages]
+  # Views for associated content.
+  #   1: List
+  #   2: Compact
+  #   3: Card
+  #   4: Citation (publications only)
+  post_view = 2
+  publication_view = 2
+  talk_view = 2
+
 
 ############################
 ## Comments
@@ -197,7 +209,7 @@ plugins_js  = []
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = true, post = true, docs = true, project = true, publication = true, rpackages = true, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]
