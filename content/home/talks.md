@@ -22,7 +22,16 @@ widget = "custom"
   
 
 +++
+### "Multiplexity Analysis of Networks using Multigraph Representations"
+#### The 5th European Conference on Social Networks (7 Sep 2021)
+[Slides](EUSN2021/EUSN2021_talk.pdf)
+
+### "Goodness of Fit Tests for Random Multigraph Models"
+#### Networks 2021: A Joint Sunbelt and NetSci Conference (6 July 2021)
+[Slides](NETWORKS2021/networks2021.pdf)
 
 ### "Gender Dependent Structures of Dialogue Networks in Films"
 #### The 4th European Conference on Social Networks (9 Sep 2019)
 [Slides](EUSN2019/EUSN2019.html)
+
+
