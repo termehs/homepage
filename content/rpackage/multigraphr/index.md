@@ -1,6 +1,6 @@
 ---
 date: "2020"
-external_link:  https://github.com/termehs/multigraphr
+external_link:  https://cran.r-project.org/web/packages/multigraphr/index.html
 image:
   caption: 
   focal_point: Smart
