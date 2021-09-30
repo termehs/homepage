@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,10 +15,18 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;My research interest falls in the intersection of multivariate statistics and social network analysis. I like working interdisciplinary and doing research that moves across scientific borders. The projects that I have worked on and am currently working on are listed below.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>David Schoch</title>
+      <link>/authors/david-schoch/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/david-schoch/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -58,14 +66,6 @@
       <link>/authors/ove-frank/</link>
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/ove-frank/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Schoch</title>
-      <link>/authors/david-schoch/</link>
-      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/david-schoch/</guid>
       <description></description>
     </item>
     
