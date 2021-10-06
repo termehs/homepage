@@ -2,8 +2,8 @@
   "name": "mrs schochastics",
   "short_name": "mrs schochastics",
   "lang": "en-us",
-  "theme_color": "rgb(163, 163, 175)",
-  "background_color": "rgb(163, 163, 175)",
+  "theme_color": "rgb(163, 162, 147)",
+  "background_color": "rgb(163, 162, 147)",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",

@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>archaeology</title>
-      <link>/tags/archaeology/</link>
+      <title>multigraphs</title>
+      <link>/tags/multigraphs/</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/tags/archaeology/</guid>
+      <guid>/tags/multigraphs/</guid>
       <description></description>
     </item>
     
@@ -45,14 +45,6 @@
     </item>
     
     <item>
-      <title>multigraphs</title>
-      <link>/tags/multigraphs/</link>
-      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/multigraphs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>random multigraph models</title>
       <link>/tags/random-multigraph-models/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
@@ -73,6 +65,14 @@
       <link>/tags/statistical-entropies/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/tags/statistical-entropies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>archaeology</title>
+      <link>/tags/archaeology/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/archaeology/</guid>
       <description></description>
     </item>
     
