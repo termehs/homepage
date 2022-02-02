@@ -5,7 +5,7 @@
     <link>/tags/random-multigraph-models/</link>
       <atom:link href="/tags/random-multigraph-models/index.xml" rel="self" type="application/rss+xml" />
     <description>random multigraph models</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>random multigraph models</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Random Multigraphs</title>
-      <link>/project/rmm/</link>
-      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/rmm/</guid>
+      <title>multigraphr</title>
+      <link>/rpackage/multigraphr/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/rpackage/multigraphr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>multigraphr</title>
-      <link>/rpackage/multigraphr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/rpackage/multigraphr/</guid>
+      <title>Random Multigraphs</title>
+      <link>/project/rmm/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/rmm/</guid>
       <description></description>
     </item>
     

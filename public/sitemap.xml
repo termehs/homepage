@@ -3,6 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/rpackage/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/entropy/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/rpackage/netropy/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
   </url>
@@ -42,20 +71,25 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/multigraphs/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/multigraph/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/rpackage/multigraphr/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/random-multigraph-models/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -92,25 +126,7 @@
   </url>
   
   <url>
-    <loc>/tags/entropy/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/movie-networks/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/multigraph/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/random-multigraph-models/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -303,15 +319,6 @@
   
   <url>
     <loc>/project/nexus/</loc>
-  </url>
-  
-  <url>
-    <loc>/rpackage/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/rpackage/multigraphr/</loc>
   </url>
   
   <url>

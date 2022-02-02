@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "multigraphr"
     tag = "multigraphs"
+    
+    [[content.filter_button]]
+    name = "netropy"
+    tag = "entropy"
 
   [design]
    # Choose how many columns the section has. Valid values: 1 or 2.

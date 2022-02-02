@@ -5,7 +5,7 @@
     <link>/rpackage/</link>
       <atom:link href="/rpackage/index.xml" rel="self" type="application/rss+xml" />
     <description>Rpackages</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Rpackages</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>netropy</title>
+      <link>/rpackage/netropy/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/rpackage/netropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>multigraphr</title>
       <link>/rpackage/multigraphr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
       <guid>/rpackage/multigraphr/</guid>
       <description></description>
     </item>
