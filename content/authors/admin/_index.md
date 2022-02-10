@@ -20,6 +20,7 @@ email: ""
 interests:
 - social network analysis
 - multivariate statistics
+- computational social science
 - information theory
 - statistical literacy
 
@@ -49,5 +50,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-My research interest falls in the intersection of multivariate statistics and social network analysis. I like working interdisciplinary and doing research that moves across scientific borders. The projects that I have worked on and am currently working on are listed below.
+My research interests falls in the intersection of multivariate statistics, social network analysis and computational social science. I like working interdisciplinary and doing research that moves across scientific borders. 
 
+Statistical literacy is the hallmark of my research and teaching practise. In an age of emerging digital data sources and high-dimensional data sets, I consider it a public service to stay true to the backbone of statistics and perform theory driven analyses rather than data driven ones. In today's increasing data science applications, it is a common mistake to assume that the transferability of tools already carries with it the analogy of meaning. Therefore, I aim to integrate a combination of computational, statistical and disciplinary expertise in all aspects of my academic practice.
+
+The projects that I have worked on and am currently working on are listed below.
