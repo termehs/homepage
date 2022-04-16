@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   
   [[experience]]
   title = "Postdoctoral Researcher"
-  company = "Konstanz University"
+  company = "University of Konstanz"
   company_url = ""
   location = "Department of Computer and Information Science"
   date_start = "2013-09-01"
