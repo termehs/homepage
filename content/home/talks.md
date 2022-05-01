@@ -5,7 +5,7 @@ date = "2016-04-20T00:00:00"
 draft = false
 
 title = "Talks"
-subtitle = "Recent presentation slides"
+subtitle = "Recent presentations"
 widget = "custom"
 
 # Order that this section will appear in.
@@ -22,6 +22,11 @@ widget = "custom"
   
 
 +++
+### "Statistical Entropy Analysis of Network Data"
+#### The Women in Network Science (WiNS) seminar (5 May 2022)
+[Slides](wins_may2022/index.html) 
+[R_codes](wins_may2022/wins_examples.html)
+
 ### "Multiplexity Analysis of Networks using Multigraph Representations"
 #### The 5th European Conference on Social Networks (7 Sep 2021)
 [Slides](EUSN2021/EUSN2021_talk.pdf)

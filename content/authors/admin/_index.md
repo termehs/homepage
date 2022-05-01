@@ -26,13 +26,13 @@ interests:
 
 name: Termeh Shafie
 organizations:
-- name: University of Manchester
+- name: "" 
   url: ""
-role: Lecturer in Social Statistics
+role: Ph.D. Statistics
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:termeh.shafie@manchester.ac.uk"
+  link: "mailto:termeh@schochastics.net"
 - icon: google-scholar
   icon_pack: ai
   link: "https://scholar.google.se/citations?user=Si-WbhAAAAAJ&hl=sv"

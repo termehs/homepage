@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Department of Social Statistics"
   date_start = "2018-07-01"
-  date_end = ""
+  date_end = "2022-04-30"
   description = """
 
 
