@@ -24,8 +24,8 @@ widget = "custom"
 +++
 ### "Statistical Entropy Analysis of Network Data"
 #### The Women in Network Science (WiNS) seminar (5 May 2022)
-[Slides](wins_may2022/index.html) 
-[R_codes](wins_may2022/wins_examples.html)
+[Slides](wins_may2022/index.html)  
+[R examples](wins_may2022/wins_examples.html)
 
 ### "Multiplexity Analysis of Networks using Multigraph Representations"
 #### The 5th European Conference on Social Networks (7 Sep 2021)
