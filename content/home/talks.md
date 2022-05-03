@@ -25,7 +25,8 @@ widget = "custom"
 ### "Statistical Entropy Analysis of Network Data"
 #### The Women in Network Science (WiNS) seminar (5 May 2022)
 [Slides](wins_may2022/index.html)  
-[R examples](wins_may2022/wins_examples.html)
+[Video](https://youtu.be/uJMQKREntfE)  
+[Examples in R](wins_may2022/wins_examples.html)
 
 ### "Multiplexity Analysis of Networks using Multigraph Representations"
 #### The 5th European Conference on Social Networks (7 Sep 2021)
@@ -33,7 +34,8 @@ widget = "custom"
 
 ### "Goodness of Fit Tests for Random Multigraph Models"
 #### Networks 2021: A Joint Sunbelt and NetSci Conference (6 July 2021)
-[Slides](NETWORKS2021/networks2021.pdf)
+[Slides](NETWORKS2021/networks2021.pdf)  
+[Video](NETWORKS2021/10338_shafie.mp4)
 
 ### "Gender Dependent Structures of Dialogue Networks in Films"
 #### The 4th European Conference on Social Networks (9 Sep 2019)
