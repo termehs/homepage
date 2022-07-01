@@ -26,9 +26,9 @@ interests:
 
 name: Termeh Shafie
 organizations:
-- name: "" 
+- name: "GESIS – Leibniz Institute for the Social Sciences" 
   url: ""
-role: Ph.D. Statistics
+role: Senior Researcher 
 social:
 - icon: envelope
   icon_pack: fas
