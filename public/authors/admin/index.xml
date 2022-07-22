@@ -5,12 +5,20 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>mrs schochastics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>mrs schochastics</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Goodness of fit tests for random multigraph models</title>
+      <link>/publication/gof.multigraph/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/gof.multigraph/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multiplexity Analysis of Networks using Multigraph Representations</title>
@@ -119,7 +127,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;My research interests falls in the intersection of multivariate statistics, social network analysis and computational social science. I like working interdisciplinary and doing research that moves across scientific borders.&lt;/p&gt;
 
