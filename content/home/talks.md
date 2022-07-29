@@ -22,6 +22,10 @@ widget = "custom"
   
 
 +++
+### "Statistical Analysis of Multivariate Egocentric Networks"
+#### Sunbelt 2022, the XLII Social Networks Conference of INSNA  (15 July 2022)
+[Slides](SUNBELT2022/index.html)  
+
 ### "Statistical Entropy Analysis of Network Data"
 #### The Women in Network Science (WiNS) seminar (5 May 2022)
 [Slides](wins_may2022/index.html)  
